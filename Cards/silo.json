@@ -1,0 +1,10 @@
+{
+	"id": "yourmod_silo",
+	"name": "Silo",
+	"description": "A silo for storing your cards",
+	"value": 3,
+	"type": "structures",
+	"icon": "bruh.png",
+	"audio": "bruh.mp3",
+	"cardDataScript": "YourModNS.Silo"
+}

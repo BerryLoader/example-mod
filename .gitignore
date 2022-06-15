@@ -1,0 +1,5 @@
+bin/
+obj/
+Assembly-CSharp.dll
+BerryLoader.dll
+build.py

@@ -1,0 +1,44 @@
+{
+	"id": "yourmod_examples",
+	"name": "modded",
+	"minAchievementCount": 3,
+	"cost": 1,
+	"icon": "bruh.png",
+	"cardBags": [
+		{
+			"type": "Chances",
+			"cards": 7,
+			"setCardBag": "BasicResources",
+			"chances": [
+				{
+					"id": "yourmod_miku",
+					"chance": 1,
+					"hasMaxCount": false,
+					"maxCountToGive": 0,
+					"Prerequisite": ""
+				},
+				{
+					"id": "yourmod_silo",
+					"chance": 1,
+					"hasMaxCount": false,
+					"maxCountToGive": 0,
+					"Prerequisite": ""
+				},
+				{
+					"id": "yourmod_composter",
+					"chance": 1,
+					"hasMaxCount": false,
+					"maxCountToGive": 0,
+					"Prerequisite": "blueprint_yourmod_compost"
+				},
+				{
+					"id": "blueprint_yourmod_compost",
+					"chance": 1,
+					"hasMaxCount": true,
+					"maxCountToGive": 1,
+					"Prerequisite": ""
+				}
+			]
+		}
+	]
+}

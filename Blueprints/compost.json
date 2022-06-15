@@ -1,0 +1,17 @@
+{
+	"id": "blueprint_yourmod_compost",
+	"name": "Idea: Compost",
+	"group": "Resources",
+	"icon": "bruh.png",
+	"stackText": "Composting",
+	"subprints": [
+		{
+			"requiredCards": "yourmod_composter, berry",
+			"cardsToRemove": "berry",
+			"resultCard": "soil",
+			"extraResultCards": "",
+			"time": 5,
+			"status": "Composting"
+		}
+	]
+}

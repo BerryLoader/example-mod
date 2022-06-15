@@ -1,0 +1,9 @@
+{
+	"id": "YourMod",
+	"name": "Example Mod",
+	"repo": "BerryLoader/example-mod",
+	"version": "0.0.1",
+	"developer": "Cyber28",
+	"description": "An example mod",
+	"dependencies": {}
+}

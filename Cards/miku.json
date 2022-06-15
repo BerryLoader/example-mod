@@ -1,0 +1,10 @@
+{
+	"id": "yourmod_miku",
+	"name": "Miku",
+	"description": "annoying :(",
+	"value": 3,
+	"type": "mobs",
+	"icon": "bruh.png",
+	"audio": "bruh.mp3",
+	"gameCardScript": "YourModNS.Miku"
+}

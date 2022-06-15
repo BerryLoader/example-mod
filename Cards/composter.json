@@ -1,0 +1,10 @@
+{
+	"id": "yourmod_composter",
+	"name": "Composter",
+	"description": "soil producer :)",
+	"value": 3,
+	"type": "structures",
+	"icon": "bruh.png",
+	"audio": "bruh.mp3",
+	"gameCardScript": "YourModNS.Composter"
+}
